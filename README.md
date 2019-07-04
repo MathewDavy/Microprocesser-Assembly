@@ -1,4 +1,6 @@
 # Microprocesser-Assembly
+Completed: 3 June, 2019
+
 This was my final assignment for COMPX203. 
 It is written in assembly code for the Waikato RISC Architecture Microprocessor.
 
